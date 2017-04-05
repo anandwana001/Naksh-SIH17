@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Naksh</string>
+    <string name="post">Posts</string>
+    <string name="college">All College</string>
+    <string name="ser_dwn">Server Down</string>
+    <string name="org">Organizer</string>
+    <string name="username">username</string>
+    <string name="passwrd">password</string>
+    <string name="ennum">enrollment number</string>
+    <string name="emailid">email id</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="skip">skip</string>
+</resources>
